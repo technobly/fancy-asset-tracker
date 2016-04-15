@@ -1,4 +1,4 @@
-fancy asset tracker demos!
+fancy asset tracker demos!!!
 ====
 
 Here are some fancy asset tracker apps that use the [Asset Tracker Shield from Particle](https://docs.particle.io/datasheets/kits/#electron-asset-tracker)!
@@ -37,3 +37,4 @@ Example projects
   
 * motion-tracker
   * Basic example that manages power using the built in accelerometer and publishes location while moving
+
